@@ -1,5 +1,31 @@
-### Hi there 👋
+## Hi, I'm Mo' Bello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨🏾‍💻
 
+###
+[Portfolio Website](https://www.mobello.dev)
+
+![Morenikeji Github Banner Cool](https://user-images.githubusercontent.com/38987207/111079738-96682f00-84fb-11eb-918a-d5a2a11df37e.png)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morenikeji-bello-106103143/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mo_bello19) 
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white])](https://www.mobello.hashnode.dev/)
+
+Software engineer with a keen interest in clean, test-driven and maintainable code. Love mentoring beginner/junior devs and implementing technology-driven solutions for all project types. Technical writer actively blogging on [hashnode](https://www.mobello.hashnode.com). Built and overseeing growth of [Uptrybe](https://www.uptrybe.com), an online quiz platform that ranks and engages users in fun ways. Also built [LinkMeUp](https://www.t.me/mvs_link_up_bot), a telegram bot that connects people based on their interests. Open to new opportunities, especially but not limited to remote offers 😉. Currently upskilling at a tremendous pace at [Microverse](https://www.microverse.org), a world class school for software developers around the world.
+
+## TECH STACK 🧰 🛠
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## PARADIGMS
+
+* MVC Architecture 
+* Object Oriented Programming
+* Test Driven Development
+
+## GITHUB STATS :bar_chart:
+
+<p align="center">VISITORS' COUNT</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Moreneecoder}/count.svg" alt="Moreneecoder :: Visitor's Count" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Moreneecoder&show_icons=true&theme=synthwave" alt="Moreneecoder :: Profile Stats" /> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moreneecoder&langs_count=10&theme=tokyonight&layout=compact" alt="Moreneecoder :: Top Langs" />
 <!--
 **Moreneecoder/Moreneecoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
