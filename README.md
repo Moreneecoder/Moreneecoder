@@ -1,4 +1,4 @@
-## Hi, I'm Mo' Bello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨🏾‍💻
+# Hi, I'm Mo' Bello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">👨🏾‍💻
 
 ###
 [Portfolio Website](https://www.mobello.dev)
