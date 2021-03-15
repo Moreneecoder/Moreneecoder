@@ -3,7 +3,7 @@
 ###
 [Portfolio Website](https://www.mobello.dev)
 
-![Morenikeji Github Banner Cool](https://user-images.githubusercontent.com/38987207/111079738-96682f00-84fb-11eb-918a-d5a2a11df37e.png)
+![Morenikeji Github Banner Cool](https://user-images.githubusercontent.com/38987207/111208536-26c17500-85cb-11eb-8dca-94d083612cb8.png)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morenikeji-bello-106103143/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mo_bello19) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white])](https://www.mobello.hashnode.dev/)
