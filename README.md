@@ -1,7 +1,7 @@
 # Hi, I'm Mo' Bello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">👨🏾‍💻
 
 ###
-[Portfolio Website](https://www.mobello.dev)
+[Portfolio Website](https://mobello.netlify.app)
 
 ![Morenikeji Github Banner Cool](https://user-images.githubusercontent.com/38987207/111208536-26c17500-85cb-11eb-8dca-94d083612cb8.png)
 
