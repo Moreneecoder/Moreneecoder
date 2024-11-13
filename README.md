@@ -8,7 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morenikeji-bello-106103143/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mo_bello19) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white])](https://www.mobello.hashnode.dev/)
 
-Software engineer with a keen interest in clean, test-driven and maintainable code. Love mentoring beginner devs and implementing technology-driven solutions for all project types. Technical writer actively blogging on [hashnode](https://mobello.hashnode.dev/). Built [UltraWars](https://ultrawars.netlify.app/), a javascript space shooter game. Also built [LinkMeUp](https://t.me/link_me_up_bot), a telegram bot that connects people based on their interests. Recently graduated from [Microverse](https://www.microverse.org), a world class school for software developers around the world. Currently a Backend Engineer at [Helicarrier Inc, USA](https://helicarrier.studio/) 😎
+Software engineer with a keen interest in clean, test-driven and maintainable code. Technical writer actively blogging on [hashnode](https://mobello.hashnode.dev/). Graduated from [Microverse](https://www.microverse.org), a world-class school for software developers worldwide. Previously a Backend Engineer at [Helicarrier Inc, USA](https://helicarrier.studio/). Currently building digital freight infrastructure at [SendHQ](https://trysend.com) 😎
 
 ## TECH STACK 🧰 🛠
 
